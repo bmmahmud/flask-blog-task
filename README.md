@@ -8,6 +8,6 @@ It has used bootstrap for it's frontend design and backend used Flask framework.
 * psycopg2-binary
 * python-dotenv
 
-# Fture Plan
+# Future Plan
 * Add uthentiation
 * Dockerize 
